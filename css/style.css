@@ -284,24 +284,22 @@ html {
     border: none;
     outline: none; 
 }
-.pupu2 {
-    width: 540px;
-    height: 175px;
-    margin-top: 20px;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 23px;
-    color: #5F5D5D;
-    border: none;
-    outline: none;
-}
+
 .input_eb {
     padding-left: 20px;
 }
 .input_mes {
+    padding: 17px 20px 143px 20px;
+    margin-top: 20px;
+    width: 540px;
+    height: 175px;
+    border: none;
+    outline: none;
     padding-left: 20px;
     padding-bottom: 120px;
+    resize: none;
 }
+
 .butto {
     margin-top: 50px;
     margin-left: 180px;
