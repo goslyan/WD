@@ -213,11 +213,11 @@ html {
     width: 25%;
 }
 
-a:link {
+.link_ {
     position: relative;
 } 
 
-a.link_img:hover::before {
+.link_:hover::before {
     content:"";
     background: rgba(52, 84, 122, 0.8) url(../img/glaz.png) no-repeat center;
     position:absolute;
