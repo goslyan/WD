@@ -491,7 +491,7 @@ input[type="tel"]:focus, input[type="text"]:focus {
     .footer_div {
         justify-content: space-around;
     }
-    .section-sixth {
+    .map {
         display: none;
     }
 }
